@@ -4,3 +4,5 @@ automatically opens twitch to watch karq stream for overwatch2 key (if he stops 
 
 ## **note**
 make sure you are autologged into twitch on ur default system browser as this is the browser **ow2autokey** will use
+
+this can be tested by running **browsertest.exe** which should open https://twitch.tv/KarQ when executed
